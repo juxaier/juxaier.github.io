@@ -1,7 +1,7 @@
-Package: com.nyansatan.WayOut
+Package: com.juxaier.WayOut
 Version: 1.4-1E6
 Architecture: iphoneos-arm
-Maintainer: Nyan Satan
+Maintainer: JUXAIER
 Installed-Size: 7828
 Filename: ./deb_files/WayOut.deb
 Size: 7778154
@@ -10,14 +10,14 @@ SHA1: d4a293acc08a1b0de1acbf16a218413fc0f04120
 SHA256: 21f6750dab891a029c7303578d970a7d566bafa835c96fe92d3ea3bcb87b76f5
 Section: System
 Description: Way Out - GUI in the spirit of classical Setup.app for untethered dualboots to iOS 6. Developed by @nyan_satan. Thanks to: @winocm, @xerub, @JonathanSeals
-Author: @nyan_satan
+Author: @juxaier
 Icon: file:///Applications/WayOut.app/icon.png
 Name: MARSHer
 
-Package: com.nyansatan.dualbootstuff
+Package: com.juxaier.dualbootstuff
 Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: Nyan Satan
+Maintainer: JUXAIER
 Installed-Size: 1057
 Filename: ./deb_files/dualbootstuff.deb
 Size: 491366
