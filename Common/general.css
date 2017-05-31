@@ -4,7 +4,7 @@ body {
    	margin:0 auto;
 	padding: 0;
    	height: 100%;
-	font-family: "San Francisco";
+	font-family: Helvetica;
 	
 }
 
@@ -38,7 +38,7 @@ p.cell {
 footer {
 
 	position: relative;
-	font-family: "San Francisco";
+	font-family: Helvetica;
 	bottom: 0;
 	left: 0;
 	right: 0;
@@ -71,7 +71,7 @@ p.cli {
 	background-color: #F0F0F0;
 	padding: 10px;
 	border-radius: 5px;
-	font-family: "San Francisco";
+	font-family: Helvetica;
 	word-wrap: break-word;
 
 }
@@ -81,7 +81,7 @@ span.cli {
 	background-color: #F0F0F0;
 	padding: 1px;
 	border-radius: 5px;
-	font-family: "San Francisco";
+	font-family: Helvetica;
 	word-wrap: break-word;
 
 }
